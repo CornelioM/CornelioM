@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CornelioM
+- 👋 Hi, I’m @CornelioM.
 - 👀 I’m interested in web developer.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on the school.
