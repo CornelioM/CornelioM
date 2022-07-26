@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CornelioM
 - 👀 I’m interested in web developer.
 - 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on my school.
+- 💞️ I’m looking to collaborate on the school.
 - 📫 How to reach me by email corneliomanzueta169@gmail.com.
 
 <!---
